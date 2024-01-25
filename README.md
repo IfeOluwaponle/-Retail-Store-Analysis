@@ -1,2 +1,2 @@
-# -Retail-Store-Analysis
-PowerBI analysis, Dashboard and Reporting
+### Retail-Store-Analysis
+#PowerBI analysis, Dashboard, and Reporting
