@@ -1,5 +1,6 @@
-### Retail-Store-Analysis
+### Online Retail-Store-Analysis
 --PowerBI analysis, Dashboard, and Reporting
+
 This dashboard answers four key business questions of an online retail store :
 
 Question 1
