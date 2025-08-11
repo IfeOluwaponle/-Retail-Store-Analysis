@@ -1,4 +1,4 @@
-### Online Retail-Store-Analysis
+### Online Retail-Store-Analysis Power BI
 --PowerBI analysis, Dashboard, and Reporting
 
 This dashboard answers four key business questions of an online retail store looking to expand sales and gain insights into best selling product :
