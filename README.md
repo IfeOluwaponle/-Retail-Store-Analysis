@@ -16,12 +16,12 @@ Question 4
 Gain insights into the demand for Company products.  created insights on regions that have the greatest demand for specific products. This will help initiate an expansion strategy which will allow the company to target these areas and generate more business/ revenue from these regions.
 
 
-As a data analyst, here is my go-to checklist
-* Plan the project
-* Get the data
-* Prepare the data
-* Perform ETL
-* feature engineering (if need be)
-* vizualize
+As a data analyst, here is my go-to checklist.
+* Plan the project (get business understanding and stakeholders requirement)
+* Get the data (ensure all the data required are available and ready to use)
+* Prepare the data (ensure data is in right format and ready to be extracted from database for analysis and visualization)
+* Perform ETL (extract, transform and load dataset into Power BI)
+* feature engineering (if need be; create tables, measures )
+* vizualize and dashboards
 * create a report
 
